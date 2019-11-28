@@ -1,0 +1,19 @@
+body {
+	margin: 0;
+	font-family: "Courier New",Courier, monospace;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+
+    background: #ef32d9;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to left, rgb(179, 174, 239), #ef32d9);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to left, rgb(179, 174, 239), #ef32d9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+button {
+	cursor: pointer;
+}
